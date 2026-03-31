@@ -31,6 +31,9 @@ Unityを使用して制作した2Dシューティングゲームです。
 ## 📷 ゲーム画面
 <img width="403" height="537" alt="スクリーンショット 2026-03-31 170352" src="https://github.com/user-attachments/assets/ce00ef40-b551-43e4-8fb0-223ed3838fb9" />
 <img width="393" height="537" alt="スクリーンショット 2026-03-31 170224" src="https://github.com/user-attachments/assets/e97af916-0242-4f03-a557-90fd14df2f76" />
+## 🛠 修正履歴
+- ボス撃破後に前のボスが再出現するバグを修正
+- ボス進行管理システムを改善
 
 
 
